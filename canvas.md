@@ -131,6 +131,13 @@ c.arc(...)
 c.closePath()
 ```
 
+### Text
+
+```js
+c.textAlign = "center";
+c.textBaseline="middle";
+```
+
 ### More resources
 
   * [Canvas Cheatsheet PDF][pdf]
